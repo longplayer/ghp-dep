@@ -1,6 +1,6 @@
 var GHPATH = "/ghp-dep"
 var APP_PREFIX = "gplpwa_"
-var VERSION = "version_001"
+var VERSION = "version_002"
 var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
